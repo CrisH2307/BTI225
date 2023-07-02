@@ -5,7 +5,9 @@
 
 # Marks secured
 - Test 01: 10/10
-- Assignment: 10/10
+- Test 02: 9/10
+- Test 03: 9/10
+- Assignment 1: 10/10
 
 
 ### COURSE GRADE: A+
